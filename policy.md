@@ -1,87 +1,82 @@
-Privacy Policy
-
-Effective Date: 07 Avril 2025
-App Name: RDB Résultats
+🛡️ Privacy Policy
+Effective Date: April 7, 2025
+App Name: Election Gabon
 
 1. Introduction
-RDB Résultats is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your personal information when you use our mobile application, which enables users to capture and upload photos of election results from individual polling stations or offices.
+Résultats Citoyens is an independent, citizen-led mobile app designed to promote electoral transparency by allowing users to capture and upload photos of publicly posted election results.
 
-By using the app, you agree to the practices described in this Privacy Policy.
+⚠️ This app is completely independent from any government agency, electoral commission, or public institution. It is developed in partnership with the civic platform Rassemblement des Bâtisseurs (RDB) in Gabon, which is not a governmental body.
 
-2. Information We Collect
-a. Personal Information
-We only collect election result data for each candidate, supported by photos; we do not collect any personal information.
+By using this app, you agree to the practices outlined in this Privacy Policy.
+
+2. Data We Collect
+a. No Personal Information Collected
+We do not collect any personally identifiable information (PII) from users.
 
 b. User-Generated Content
-Our app allows users to take photos of election result sheets and upload them. These images may contain sensitive or identifiable information.
+Users can take and upload photos of publicly displayed election result sheets. While these may contain visible data, the app does not request or process any personal data.
 
-Camera Access: Used only to allow users to capture and upload images. The app does not access the camera without user consent.
+c. Non-Personal Technical Data
+To improve the app and ensure functionality, we may collect:
 
-Photo Storage: Images are stored securely and associated with metadata such as date, time, and optionally.
+Device type and operating system version
 
-c. Non-Personal Information
-We may collect non-identifying data, such as:
+Basic usage analytics (e.g., number of uploads, error logs)
 
-Device type, operating system version
+3. How We Use Your Data
+The data collected is used solely to:
 
-Usage analytics (e.g., number of uploads, error logs)
+Enable core app functions (photo capture and upload)
 
+Validate and moderate uploaded content
 
-3. How We Use the Information
-We use your information to:
+Enhance app performance, reliability, and security
 
-Enable the core functionality of the app (image capture, upload, and display)
+Produce aggregated statistics in support of electoral transparency
 
-Validate and moderate content to ensure reliability and prevent misuse
+4. Data Sharing
+We do not sell or rent user data. Data may be shared only with:
 
-Improve performance, user experience, and app security
+Secure cloud service providers (for image storage and app infrastructure)
 
-Analyze aggregate data to support election transparency
+Moderators or validators to ensure content integrity
 
-4. Sharing of Information
-We do not sell or rent your personal information.
-
-We may share data with:
-
-Cloud service providers for image storage and app functionality
-
-Moderators or validators to verify uploaded election data
-
-We will only disclose information when required by law or to prevent abuse of the platform.
+Legal authorities when required by applicable law
 
 5. Data Retention
-Photos and associated data are retained only for as long as necessary to fulfill the app’s objectives or as required by law. You can request deletion of your uploads by contacting us.
+Photos and associated data are retained only as long as needed to fulfill the app’s transparency mission.
+Users can request deletion of their uploaded content at any time via our contact email.
 
-6. Your Rights and Choices
+6. Your Rights
 You have the right to:
 
-Request access or deletion of your data
+Request access to or deletion of your submitted content
 
-Withdraw consent to data processing at any time
+Withdraw consent at any time by discontinuing use of the app
 
-Disable camera or location access via your device settings
+Disable camera or storage permissions via your device settings
 
-To exercise these rights, contact us at: kevytech2@gmail.com
+📩 To submit a request: kevytech2@gmail.com
 
 7. Security
-We take reasonable measures to protect your data using encryption, access controls, and secure servers. However, no system is 100% secure, and we advise users to avoid uploading images with personal identifiers.
+We implement standard industry measures to safeguard data, including encryption, secure servers, and access control.
+However, no system is entirely secure. We advise users not to upload images that contain personal identifiers.
 
 8. Children’s Privacy
-This app is not intended for users under the age of 17. We do not knowingly collect personal information from children. If we learn that we have inadvertently collected such data, we will delete it.
+This app is not intended for users under the age of 17. We do not knowingly collect any data from minors. If such data is found, it will be deleted promptly.
 
-9. Permissions Disclosure 
-The app requests the following permissions:
+9. Permissions Disclosure
+This app requests the following permissions:
 
-Camera Access: To capture images of election results
+Camera: To capture photos of election results
 
-Storage Access: To temporarily save images before upload
+Storage: To temporarily save images before upload
 
-These permissions are only used to provide the core functionality of the app and are never used for background tracking or advertising.
+These permissions are used only to enable the core features of the app. No background tracking or data collection occurs.
 
-10. Changes to This Privacy Policy
-We may update this Privacy Policy periodically. Any changes will be posted in-app and on our website with an updated effective date.
+10. Policy Updates
+We may update this policy periodically. All changes will be published within the app, along with the new effective date.
 
 11. Contact Us
-For questions, concerns, or data requests, please contact:
-
+For questions, concerns, or privacy-related requests, contact:
 📧 kevytech2@gmail.com
