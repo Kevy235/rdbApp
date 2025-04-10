@@ -1,82 +1,59 @@
-🛡️ Privacy Policy
-Effective Date: April 7, 2025
-App Name: Election Gabon
+Privacy Policy of MAKABANA GABON
+Last updated: 09/04/2025
 
 1. Introduction
-Résultats Citoyens is an independent, citizen-led mobile app designed to promote electoral transparency by allowing users to capture and upload photos of publicly posted election results.
+MAKABANA GABON is committed to protecting your privacy. This privacy policy explains how we collect, use, and share information when you use our mobile application.
 
-⚠️ This app is completely independent from any government agency, electoral commission, or public institution. It is developed in partnership with the civic platform Rassemblement des Bâtisseurs (RDB) in Gabon, which is not a governmental body.
-
-By using this app, you agree to the practices outlined in this Privacy Policy.
-
-2. Data We Collect
-a. No Personal Information Collected
+2. Information We Collect
+• Collected Data:
+A. No Personal Information Collected
 We do not collect any personally identifiable information (PII) from users.
 
-b. User-Generated Content
-Users can take and upload photos of publicly displayed election result sheets. While these may contain visible data, the app does not request or process any personal data.
+B. User-Generated Content
+Users may take and upload non-personal photos.
 
-c. Non-Personal Technical Data
-To improve the app and ensure functionality, we may collect:
+C. No Personal Data Processing
+The application does not request or process any personal data.
 
-Device type and operating system version
+3. Use of Information
+We use your information to:
+• Provide, maintain, and improve the application
+• Ensure security and prevent fraud
+• Comply with legal obligations
 
-Basic usage analytics (e.g., number of uploads, error logs)
-
-3. How We Use Your Data
-The data collected is used solely to:
-
-Enable core app functions (photo capture and upload)
-
-Validate and moderate uploaded content
-
-Enhance app performance, reliability, and security
-
-Produce aggregated statistics in support of electoral transparency
-
-4. Data Sharing
-We do not sell or rent user data. Data may be shared only with:
-
-Secure cloud service providers (for image storage and app infrastructure)
-
-Moderators or validators to ensure content integrity
-
-Legal authorities when required by applicable law
-
-5. Data Retention
-Photos and associated data are retained only as long as needed to fulfill the app’s transparency mission.
-Users can request deletion of their uploaded content at any time via our contact email.
-
-6. Your Rights
+4. Your Rights
 You have the right to:
 
-Request access to or deletion of your submitted content
+Request access to or deletion of the content you submitted
 
-Withdraw consent at any time by discontinuing use of the app
+Withdraw your consent at any time by discontinuing use of the app
 
-Disable camera or storage permissions via your device settings
+Disable camera or storage access permissions via your device settings
 
-📩 To submit a request: kevytech2@gmail.com
+5. Information Security
+We implement industry-standard measures to protect data, including encryption, secure servers, and access control.
+We recommend users avoid uploading images that contain personal information.
 
-7. Security
-We implement standard industry measures to safeguard data, including encryption, secure servers, and access control.
-However, no system is entirely secure. We advise users not to upload images that contain personal identifiers.
+6. Children’s Privacy
+Our application is not intended for children under the age of 18.
+We do not collect personal information from children under 18.
 
-8. Children’s Privacy
-This app is not intended for users under the age of 17. We do not knowingly collect any data from minors. If such data is found, it will be deleted promptly.
+7. Data Sharing
+We do not sell or rent user data.
 
-9. Permissions Disclosure
-This app requests the following permissions:
+8. Changes to the Privacy Policy
+We may update this policy. Any changes will be published within the application.
 
-Camera: To capture photos of election results
+9. Permission Disclosure
+This app requires the following permissions:
 
-Storage: To temporarily save images before upload
+Camera: To take photos
 
-These permissions are used only to enable the core features of the app. No background tracking or data collection occurs.
+Storage: To temporarily save images before uploading
 
-10. Policy Updates
-We may update this policy periodically. All changes will be published within the app, along with the new effective date.
+These permissions are solely used to enable the app’s core features.
+There is no background tracking or data collection.
 
-11. Contact Us
-For questions, concerns, or privacy-related requests, contact:
+10. Contact
+For any questions, concerns, or privacy-related requests, please contact:
 📧 kevytech2@gmail.com
